@@ -11,8 +11,8 @@ This project was created in roughly 24 hours with the bulk of time devoted to le
 
 Notable takeaways include:
 
-  *The more I work with variants of XML, the more they seem to be all the same.
-  *JavaFX is intended to replace or substitute for Swing.
-  *Procedurally, everything under the hood is still Java.
-  *This would go much faster overall with peer or supervisor guidance.
-  *JavaFX, especially with the inclusion of FXML seems like a very powerful resource for creating responsive and readily generated UIs.
+  * The more I work with variants of XML, the more they seem to be all the same.
+  * JavaFX is intended to replace or substitute for Swing.
+  * Procedurally, everything under the hood is still Java.
+  * This would go much faster overall with peer or supervisor guidance.
+  * JavaFX, especially with the inclusion of FXML seems like a very powerful resource for creating responsive and readily generated UIs.
