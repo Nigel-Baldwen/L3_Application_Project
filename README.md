@@ -10,6 +10,7 @@ If I succeeded, this project will provide some simple button controls in a Model
 This project was created in roughly 24 hours with the bulk of time devoted to learning the ropes of a new framework.
 
 Notable takeaways include:
+
   *The more I work with variants of XML, the more they seem to be all the same.
   *JavaFX is intended to replace or substitute for Swing.
   *Procedurally, everything under the hood is still Java.
